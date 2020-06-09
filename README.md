@@ -13,7 +13,8 @@
 - 其余参数均使用默认,设置完成后点击“BLAST”开始计算（用时3-5分钟）
 - 结果显示后，点击“Download All”，选择XML格式保存结果到本地。
  ### 2. 选择KDEL氨基酸序列的位于c末端的蛋白
-- 运行脚本：[c-end.py]（https://github.com/nye0/SearchProtein-C-teminal-End-with-XXX/blob/master/C-end.py）
+- [c-end.py](https://github.com/nye0/SearchProtein-C-teminal-End-with-XXX/blob/master/C-end.py)
+
 ```
 ./ C-end.py    /path/to/xml /result/path/xlsx (结果需保存为xlsx格式)
 ```
