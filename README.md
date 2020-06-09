@@ -6,7 +6,7 @@
 
 ## 步骤：
  ### 1. 检索包含KDEL氨基酸序列的全部蛋白。
-- 在Enter accession number(s), gi(s), or FASTA sequence(s)中输入“KDEL”
+- 在Enter accession number(s), gi(s), or FASTA sequence(s)中输入“XXXX”
 - 在organism 中输入：Homo sapiens (taxid:9606)
 - Algorithm部分使用：PSI-BLAST (Position-Specific Iterated BLAST)
 - Algorithm parameters: 可调节Max target sequences选项以获得更多结果。
