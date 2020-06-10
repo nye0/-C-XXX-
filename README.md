@@ -2,7 +2,8 @@
 
 ## 工具：
 - [blastp](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome)
-- Python Package: *pandas*,*xml*
+- [uniprot](https://www.uniprot.org)
+- Python Package: *pandas*,*xml*,*urllib*
 
 ## 步骤：
  ### 1. 检索包含KDEL氨基酸序列的全部蛋白。
@@ -18,8 +19,8 @@
 ```
 ./ C-end.py    /path/to/xml /result/path/xlsx (结果需保存为xlsx格式)
 ```
--	**注意**：
+- **注意**：
   - c-end.py中第一行需修改为本机python可执行程序的路径
-  - 本机python需安装pandas及xml 库
+  - 本机python需安装相关库
 
 
